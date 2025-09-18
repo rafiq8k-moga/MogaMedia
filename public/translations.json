@@ -1,0 +1,83 @@
+{
+  "id": {
+    "site_title": "MogaMediaID – Subtitle & Terjemahan Anime",
+    "nav": { "services": "Layanan", "collab": "Kolaborasi", "portfolio": "Portofolio", "contact": "Kontak" },
+    "hero": {
+      "title": "Gerbang Menuju Kultur Pop Jepang, <span class='text-purple-700'>Secara Legal.</span>",
+      "desc": "MogaMediaID adalah hub untuk konten, subtitle, dan terjemahan yang menghadirkan Jepang lebih dekat secara legal.",
+      "cta": "Hubungi Kami"
+    },
+    "services": {
+      "title": "Layanan Kami",
+      "items": [
+        { "title": "Subtitle", "desc": "Penerjemahan subtitle anime dengan cepat dan akurat." },
+        { "title": "Dokumen", "desc": "Terjemahan artikel, berita, atau materi promosi berbahasa Jepang." },
+        { "title": "Konsultasi", "desc": "Dukungan bagi kreator untuk memastikan konten sesuai aturan legal." }
+      ]
+    },
+    "collab": { "title": "Kolaborasi", "desc": "Kami terbuka untuk kerja sama dengan fansub, kreator, maupun media.", "cta": "Ayo Kolaborasi" },
+    "portfolio": {
+      "title": "Portofolio",
+      "items": [
+        { "title": "Subtitle Anime", "desc": "Proyek subtitle anime populer.", "image": "/assets/anime1.jpg" },
+        { "title": "Artikel Jepang", "desc": "Terjemahan artikel budaya Jepang.", "image": "/assets/article.jpg" },
+        { "title": "Kerja Sama", "desc": "Kolaborasi dengan komunitas kreator.", "image": "/assets/collab.jpg" }
+      ]
+    },
+    "contact": { "title": "Hubungi Kami", "desc": "Tertarik kerja sama? Kirim email ke kami!", "cta": "Email Kami" }
+  },
+  "en": {
+    "site_title": "MogaMediaID – Anime Subtitles & Translation",
+    "nav": { "services": "Services", "collab": "Collaboration", "portfolio": "Portfolio", "contact": "Contact" },
+    "hero": {
+      "title": "Gateway to Japanese Pop Culture, <span class='text-purple-700'>Legally.</span>",
+      "desc": "MogaMediaID is your hub for content, subtitles, and translations that bring Japan closer legally.",
+      "cta": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "items": [
+        { "title": "Subtitles", "desc": "Fast and accurate anime subtitle translation." },
+        { "title": "Documents", "desc": "Translation of articles, news, or promotional materials." },
+        { "title": "Consultation", "desc": "Support for creators to ensure legal compliance." }
+      ]
+    },
+    "collab": { "title": "Collaboration", "desc": "We welcome collaborations with fansubs, creators, and media.", "cta": "Let’s Collaborate" },
+    "portfolio": {
+      "title": "Portfolio",
+      "items": [
+        { "title": "Anime Subtitles", "desc": "Popular anime subtitle projects.", "image": "/assets/anime1.jpg" },
+        { "title": "Japanese Articles", "desc": "Translation of Japanese culture articles.", "image": "/assets/article.jpg" },
+        { "title": "Partnerships", "desc": "Collaborations with creator communities.", "image": "/assets/collab.jpg" }
+      ]
+    },
+    "contact": { "title": "Contact Us", "desc": "Interested in working together? Send us an email!", "cta": "Send Email" }
+  },
+  "jp": {
+    "site_title": "MogaMediaID – アニメ字幕と翻訳サービス",
+    "nav": { "services": "サービス", "collab": "コラボ", "portfolio": "ポートフォリオ", "contact": "お問い合わせ" },
+    "hero": {
+      "title": "日本ポップカルチャーへのゲートウェイ、<span class='text-purple-700'>合法的に。</span>",
+      "desc": "MogaMediaIDはコンテンツ、字幕、翻訳のハブであり、日本を合法的に身近にします。",
+      "cta": "お問い合わせ"
+    },
+    "services": {
+      "title": "私たちのサービス",
+      "items": [
+        { "title": "字幕", "desc": "迅速かつ正確なアニメ字幕翻訳。" },
+        { "title": "ドキュメント", "desc": "記事、ニュース、プロモーション資料の翻訳。" },
+        { "title": "コンサルティング", "desc": "クリエイター向けの法的サポート。" }
+      ]
+    },
+    "collab": { "title": "コラボレーション", "desc": "ファンサブ、クリエイター、メディアとのコラボを歓迎します。", "cta": "一緒にやりましょう" },
+    "portfolio": {
+      "title": "ポートフォリオ",
+      "items": [
+        { "title": "アニメ字幕", "desc": "人気アニメの字幕プロジェクト。", "image": "/assets/anime1.jpg" },
+        { "title": "日本語記事", "desc": "日本文化の記事翻訳。", "image": "/assets/article.jpg" },
+        { "title": "パートナーシップ", "desc": "クリエイターコミュニティとの協力。", "image": "/assets/collab.jpg" }
+      ]
+    },
+    "contact": { "title": "お問い合わせ", "desc": "協力に興味がありますか？ メールを送ってください！", "cta": "メールを送る" }
+  }
+}
